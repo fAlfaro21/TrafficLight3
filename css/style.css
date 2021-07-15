@@ -1,0 +1,56 @@
+/* .btn {
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 2px;
+    text-align: center;
+  }
+
+.on{
+  background-color: green;
+}
+
+.off{
+  background-color: red;
+}
+
+.image-container{
+  text-align: center;
+}
+
+.image-container img{
+  
+} */
+
+body{
+  display:flex;
+  flex-direction:row;
+}
+
+div{
+  display:felx;
+  align-content: center;
+}
+
+.redLight{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: solid black;
+}
+
+.blackColor{
+  background-color: black;
+}
+
+.greenColor{
+  background-color: green;
+}
+
+.orangeColor{
+  background-color: orange;
+}
+
+.redColor{
+  background-color:red;
+}
